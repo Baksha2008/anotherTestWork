@@ -1,0 +1,42 @@
+[
+        {
+                "id": 0,
+                "type": "radio",
+                "question": "Переменную, обьявленную при помощи ключевого слова, let нельзя...",
+                "answerOptions":["Перезаписать", "Изменить", "Удалить", "Все варианты верны", "Все варианты не верны" ],
+                "correctAnswer": "Перезаписать",
+                "answer": ""
+        },
+        {
+                "id": 1,
+                "type": "checkbox",
+                "question": "JavaScript многопоточный язык программирования?",
+                "answerOptions":["Да", "Нет", "Иногда"],
+                "correctAnswer": ["Нет"],
+                "answer": []
+        },
+        {
+                "id": 2,
+                "type": "checkbox",
+                "question": "Чем стрелочная функция отличается от обычной?",
+                "answerOptions":["Нет arguments ", "Отсутствие привязки this ", "Нельзя вызвать в классе "],
+                "correctAnswer": ["Нет arguments ", "Отсутствие привязки this "],
+                "answer": []
+        },
+        {
+                "id": 3,
+                "type": "select",
+                "question": "Что вернет typeof null?",
+                "answerOptions":["null", "object", "function", "undefined"],
+                "correctAnswer": "object",
+                "answer": ""
+        },
+        {
+                "id": 4,
+                "type": "text",
+                "question": "Чему будет равно 0.1 + 0.2?",
+                "answerOptions":[],
+                "correctAnswer": "0.30000000000000004",
+                "answer": ""
+        }
+]

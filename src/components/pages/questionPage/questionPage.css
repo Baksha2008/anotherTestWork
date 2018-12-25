@@ -1,0 +1,29 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    height: 100%;;
+    padding: 20px;
+    max-width: 1170px;
+    margin: 0 auto;
+    color: DarkSlateGrey;
+}
+.inputbox, .selectbox, .checkboxAndRadio{
+    display: flex;
+    flex-direction: column;
+}
+.input, .select{
+    outline: none;
+    padding: 10px;
+}
+.select{
+    background: #fff;
+    color: DarkSlateGrey;
+}
+.headline{
+    padding: 10px 20px;
+    background:#3CB371;
+}
+.inputbox{
+    margin:0 0 30px 0;
+}
